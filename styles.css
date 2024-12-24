@@ -938,6 +938,10 @@ strong {
       height: 20px;
       /* border: 2px solid green; */
     }
+
+    .page-1 {
+      margin-bottom: 100px;
+    }
   
     .hero-image, .about-us-image, .why-choose-us-image, .how-we-work-image {
       width: 100%;
